@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <p> </p>
   <p> </p>
-  <p>My name is Iván Décima and I'm a System Engineer Student. I'm from Argentina.</p>
+  <p>Hi, I'm Iván Décima and I'm a systems engineering student from Argentina.</p>
   <p> </p>
   <p> </p>
   <div id="badges">
