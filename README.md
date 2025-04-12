@@ -1,37 +1,62 @@
+
 <div id="header" align="center">
-  <h1><a href="https://ivan-decima-portfolio.netlify.app/">Iván Décima</a></h1>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  <p> </p>
-  <p> </p>
-  <p>Hi, I'm Iván Décima and I'm a systems engineering student from Argentina.</p>
-  <p> </p>
-  <p> </p>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/ivan-decima/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <h1>Iván Décima</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  
+  <h3 align="center">Backend Developer | Systems Engineering Student</h3>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/ivan-decima/">LinkedIn</a> • 
+  <a href="https://ivan-decima-portfolio.netlify.app/">Portfolio</a>
+  </div>
+</div>
+
+---
+
+## 🚀 Professional Summary
+Backend Developer specializing in Java/Spring Boot ecosystems and database optimization. Experienced in building scalable web applications and high-performance APIs, with a focus on clean architecture and cloud-native solutions. Currently enhancing software architecture expertise through Systems Engineering studies.
+
+---
+
+## 💻 Professional Highlights
+- **Full-Stack Development**: Built and deployed applications using Spring Boot (backend) and Angular (frontend) 
+- **Database Management**: Optimized MySQL/MongoDB performance and scalability for enterprise-level applications
+- **Cloud Integration**: Implemented RESTful APIs with Java/Spring Boot and Golang microservices
+- **DevOps Collaboration**: Worked with cross-functional teams on CI/CD pipelines and containerized deployments
+- **AI Solutions**: Integrated machine learning models with backend systems using best practices
+
+---
+## 🔧 Technical Expertise
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+---
+
+## 📊 Real-Time GitHub Stats
+<div align="center">
+  <a href="https://github.com/IvanDec0">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ivandec&layout=compact&theme=radical" alt="Time stats"/>
+  </a>
+  <a href="https://github.com/IvanDec0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDec0&theme=radical" alt="Top Languages"/>
   </a>
 </div>
-</div>
 
+---
 
+## 🌟 Core Competencies
+- System Architecture Design
+- Database Optimization
+- API Development
+- Cloud-Native Solutions
+- Agile Methodologies
+- Cross-Platform Development
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/IvanDec0/IvanDec0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDec0&&theme=radical&show_icons=true&langs_count=5" />
-</a>
-<a href="https://github.com/IvanDec0/IvanDec0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=IvanDec0&theme=radical&show_icons=true" alt="Iván's GitHub Stats" />
-</a>
+---
